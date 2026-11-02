@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/44andrei/DSA_COURSE_LABS_ASEM/tree/master/0027-remove-element) |
+| [0160-intersection-of-two-linked-lists](https://github.com/44andrei/DSA_COURSE_LABS_ASEM/tree/master/0160-intersection-of-two-linked-lists) |
 ## String
 |  |
 | ------- |
@@ -28,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/44andrei/DSA_COURSE_LABS_ASEM/tree/master/0020-valid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/44andrei/DSA_COURSE_LABS_ASEM/tree/master/0160-intersection-of-two-linked-lists) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/44andrei/DSA_COURSE_LABS_ASEM/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
